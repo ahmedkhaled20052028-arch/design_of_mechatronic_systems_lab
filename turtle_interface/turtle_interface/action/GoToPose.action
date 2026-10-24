@@ -1,0 +1,7 @@
+turtle_interface/TargetPose target
+---
+bool success
+string message
+---
+float64 remaining_distance
+float64 angle_error
